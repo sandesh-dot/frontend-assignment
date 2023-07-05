@@ -46,3 +46,4 @@ You can fetch data using the following API endpoint: https://fakestoreapi.com/
 
 Check out the discussion section of this repo to ask any related queries or doubts.
 Note: The assignment is intended to help you grasp basic concepts. Don't hesitate to ask for any clarifications in the discussion section of this repo. Good luck with your assignment!
+Updated
